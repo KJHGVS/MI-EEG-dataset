@@ -1,0 +1,3 @@
+Training_data文件是由Training_data_1和Training_data_2，Training_data_3组成，
+Training_data一共13680行
+Training_data_1是Training_data的前5000行，Training_data_2是Training_data的5001-10000行，Training_data_3是10001-13608行
